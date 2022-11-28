@@ -1,0 +1,10 @@
+.nav-container {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    line-height: 18px;
+    color: rgb(38, 38, 38);
+    padding: 8px 12px 20px 12px;
+    border-right: 1px solid black;
+    height: 100vh;
+}
