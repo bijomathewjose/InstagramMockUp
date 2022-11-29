@@ -4,7 +4,7 @@ const Explore = () => {
     return (
         <div className="w-full flex bg-violet-600">
             <Navbar />
-            <div>Happy</div>
+            <div className="padding-from-nav">Happy</div>
         </div>
     )
 }

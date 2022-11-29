@@ -4,7 +4,7 @@ const Messages = () => {
     return (
         <div className="w-full flex  bg-orange-600">
             <Navbar />
-            <div className="">Happy</div>
+            <div className="padding-from-nav">Happy</div>
         </div>
     )
 }

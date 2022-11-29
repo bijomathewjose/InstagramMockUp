@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div className="w-full flex bg-blue-500">
             <Navbar />
-            <div>Shampo</div>
+            <div className="padding-from-nav">Shampo</div>
         </div>
     )
 }
