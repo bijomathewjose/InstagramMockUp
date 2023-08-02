@@ -1,2 +1,0 @@
-# InstagramMockUp
-Created with CodeSandbox
